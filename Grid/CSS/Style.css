@@ -1,0 +1,171 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Hind Siliguri', sans-serif;   
+    margin: 0;
+    padding: 0;
+}
+
+nav.Topo{
+    max-width: 100%;
+}
+
+nav.Topo ul{
+    display: flex;
+    background: #060512;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+nav.Topo ul li{
+    margin: 24px;
+}
+
+nav.Topo ul li a{
+    color: #FFF;
+    text-decoration: none;
+    padding: 20px 5px;
+}
+
+body{
+    background: #333;;
+}
+
+/* Barra de rolagem */
+
+body::-webkit-scrollbar {
+    width: 15px;  
+}
+
+body::-webkit-scrollbar-track {
+    background: #333;        
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #060512;    
+    border-radius: 20px;       
+    border: 3px solid #333;  
+}
+
+h1{
+    font-size: 30px;
+    color: #FFF;
+    text-align: center;
+    margin: 1em 4em 2em ;
+    border-bottom: 10px solid #FFF ;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #FFF;
+    border-radius: 20px;
+    justify-content: center;
+    display: grid;
+    grid-template-areas:
+    "sidenav item item"
+    "sidenav item item"
+    "footer footer footer"
+    ;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.sidenav{
+    height: 700px;
+    max-width: 300px;
+    min-width: 250px;
+    border-radius: 20px;
+    background: #1C1C1C;
+    grid-area: "sidenav";
+    grid-row: sidenav;
+    margin: 2em 2em 2em 0em;
+    transition: all 0.5s;
+}
+
+.sidenav:hover{
+    -webkit-transform: scale(1.5), drop-shadow(10px 10px 5px rgba(0,0,0,.5));
+    filter: drop-shadow(10px 10px 5px rgba(0,0,0,.5));
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+
+.item{
+    height: 300px;
+    max-width: 300px;
+    min-width: 250px;
+    border-radius: 20px;
+    background: transparent;
+    color: #FFF;
+    grid-area: "item";
+    margin: 2em 2em 5em;
+    transition: all 0.5s;
+}
+
+.item:hover{
+    -webkit-transform: scale(1.5), drop-shadow(10px 10px 5px rgba(0,0,0,.5));
+    filter: drop-shadow(10px 10px 5px rgba(0,0,0,.5));
+    transform: scale(1.10);
+    cursor: pointer;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    color: #FFF;
+    background: #1C1C1C;
+    border-radius: 20px;
+    grid-area: "footer";
+    grid-column: footer;
+    text-align: center;
+    transition: all 0.5s;
+    margin-bottom: 2em;
+}
+
+.footer:hover{
+    -webkit-transform: scale(1.5), drop-shadow(10px 10px 5px rgba(0,0,0,.5));
+    filter: drop-shadow(10px 10px 5px rgba(0,0,0,.5));
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+@media (max-width: 930px){
+    .container{
+        grid-template-areas:
+        "sidenav item"
+        "sidenav item"
+        "sidenav item"
+        "sidenav item"
+        "footer footer"
+        ;
+    }
+    
+}
+
+@media (max-width: 620px){
+    .sidenav{
+        height: 200px;
+        margin: 2em 2em 2em 4.5em;
+    }
+
+    .item{
+        margin: 2.5em 2em 2em 4.5em;
+    }
+
+    .container{
+        justify-content: center;
+        grid-template-areas:
+        "sidenav"
+        "item"
+        "item"
+        "item"
+        "footer"
+        ;
+    }
+    
+}
+
+
