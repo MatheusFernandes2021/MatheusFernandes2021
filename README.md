@@ -29,8 +29,14 @@ I'm 17 years old.
 
 ## Social Media: 
 
-<div> 
-  <a href="https://www.instagram.com/matheusfernandes_13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div  align="center"> 
+  <a  align="center" href="https://www.instagram.com/matheusfernandes_13/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
