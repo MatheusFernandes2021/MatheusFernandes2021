@@ -8,7 +8,22 @@ I'm 17 years old.
 
 ## Skills:
 
-![html-5](https://user-images.githubusercontent.com/88437505/226701693-3005abe9-a255-42c9-8770-fc5f53907714.png)   ![js](https://user-images.githubusercontent.com/88437505/226701125-95683616-b757-4017-9858-721b4ebf1b62.png)  ![css-3 (1)](https://user-images.githubusercontent.com/88437505/226700783-1708f789-85ab-444e-80b7-c0a9894059f2.png) ![bootstrap](https://user-images.githubusercontent.com/88437505/226701109-e5fd9438-9818-4f04-9007-1f170b175997.png)  ![physics](https://user-images.githubusercontent.com/88437505/226701086-c63a8c95-2fab-4ee9-af8e-854bf12dd964.png)     ![php](https://user-images.githubusercontent.com/88437505/226702413-da1dd77b-5150-4585-a37e-2f3e8507f3ae.png)  ![icons8-node-js-64](https://user-images.githubusercontent.com/88437505/226702741-feb00695-c95a-4c9a-aae2-d69784cb194f.png) ![sql-server](https://user-images.githubusercontent.com/88437505/226705688-745a5d15-0a78-4e00-b49d-e42bd1d62df3.png) 
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">   
+  <img align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">  
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">     
+  <img align="center" alt="git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</div><br>
+
 
 
 
